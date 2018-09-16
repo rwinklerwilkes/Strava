@@ -17,3 +17,4 @@
 *.RTF	 diff=astextplain
 
 Map_Outputs/* linguist-vendored
+*.html linguist-vendored
