@@ -51,3 +51,4 @@ Heatmap
 strava_api_token.py
 noaa_api_token.py
 *.zip
+jupyter_loc.py
